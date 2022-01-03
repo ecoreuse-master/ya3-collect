@@ -1,0 +1,13 @@
+click
+beautifulsoup4
+lxml
+requests
+numpy
+pandas
+
+# For dev
+mypy
+coverage
+flake8
+types-requests
+
